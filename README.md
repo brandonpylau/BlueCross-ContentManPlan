@@ -1,1 +1,1 @@
-# BlueCross-ContentManPlan
+# BlueCross-ContentManagementPlan
